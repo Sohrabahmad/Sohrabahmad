@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://leetcard.jacoblin.cool/Sohrab_123?ext=contest)
+![](https://leetcard.jacoblin.cool/Sohrab_123?theme=unicorn)
+![](https://leetcard.jacoblin.cool/Sohrab_123?theme=light,unicorn)
